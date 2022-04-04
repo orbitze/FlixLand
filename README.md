@@ -1,5 +1,5 @@
 ## About
-This project is a <em>slightly</em> modified version of `MovieLand`, a tutorial-project 
+This project is a <em>very slightly</em> modified version of `MovieLand`, a tutorial-project 
 originally created by [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A). </br>
 
 #### How to run the app:
@@ -10,7 +10,7 @@ originally created by [JavaScript Mastery](https://www.youtube.com/channel/UCmXm
 * `npm install`
 * `npm start`
 
-</br> Open [http://localhost:3000](http://localhost:3000)</br></br>
+</br> The app shall open on [http://localhost:3000](http://localhost:3000)</br></br>
 
 ## Snapshot(s)
 
