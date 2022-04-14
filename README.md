@@ -4,7 +4,8 @@ originally created by [JavaScript Mastery](https://www.youtube.com/channel/UCmXm
 
 #### How to run the app:
 - Install Node.js and React.js
-- cd into the repo folder
+- Clone/download the project
+- cd into the project folder
 
 #### Run the following commands:
 * `npm install`
